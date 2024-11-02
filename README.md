@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Konstantin Dinev a Master Student in Robotics at EPFL.
-- 👀 I’m interested in Robotics and Artificial inteligence and Image processing.
+- 👀 I’m interested in Robotics, Artificial inteligence and Image processing.
 - 📫 How to reach me konstantin.dinev@epfl.ch
 
 <!---
